@@ -1,0 +1,14 @@
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\HomeAccounting.exe
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\HomeAccounting.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\HomeAccounting.deps.json
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\HomeAccounting.runtimeconfig.json
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\HomeAccounting.pdb
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\EntityFramework.SqlServer.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\EntityFramework.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\Microsoft.Data.Sqlite.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\SQLitePCLRaw.core.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\System.Data.SQLite.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\System.Data.SqlClient.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\System.Data.SQLite.EF6.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\sni.dll
+D:\Programs\C#\HomeAccounting\bin\Release\net5.0-windows\publish\SQLite.Interop.dll

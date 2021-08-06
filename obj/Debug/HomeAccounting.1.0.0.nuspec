@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HomeAccounting</id>
+    <version>1.0.0</version>
+    <authors>HomeAccounting</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Microsoft.Data.Sqlite.Core" version="5.0.8" exclude="Build,Analyzers" />
+        <dependency id="SQLite" version="3.13.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SQLite" version="1.0.114.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Programs\C#\HomeAccounting\bin\Debug\net5.0-windows\HomeAccounting.runtimeconfig.json" target="lib\net5.0-windows7.0\HomeAccounting.runtimeconfig.json" />
+    <file src="D:\Programs\C#\HomeAccounting\bin\Debug\net5.0-windows\HomeAccounting.dll" target="lib\net5.0-windows7.0\HomeAccounting.dll" />
+  </files>
+</package>

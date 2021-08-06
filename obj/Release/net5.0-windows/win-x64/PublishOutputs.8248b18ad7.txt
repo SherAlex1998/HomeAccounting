@@ -1,0 +1,14 @@
+D:\Programs\C#\HomeAccounting\bin\Release\HomeAccounting.exe
+D:\Programs\C#\HomeAccounting\bin\Release\HomeAccounting.dll
+D:\Programs\C#\HomeAccounting\bin\Release\HomeAccounting.deps.json
+D:\Programs\C#\HomeAccounting\bin\Release\HomeAccounting.runtimeconfig.json
+D:\Programs\C#\HomeAccounting\bin\Release\HomeAccounting.pdb
+D:\Programs\C#\HomeAccounting\bin\Release\EntityFramework.SqlServer.dll
+D:\Programs\C#\HomeAccounting\bin\Release\EntityFramework.dll
+D:\Programs\C#\HomeAccounting\bin\Release\Microsoft.Data.Sqlite.dll
+D:\Programs\C#\HomeAccounting\bin\Release\SQLitePCLRaw.core.dll
+D:\Programs\C#\HomeAccounting\bin\Release\System.Data.SQLite.dll
+D:\Programs\C#\HomeAccounting\bin\Release\System.Data.SqlClient.dll
+D:\Programs\C#\HomeAccounting\bin\Release\System.Data.SQLite.EF6.dll
+D:\Programs\C#\HomeAccounting\bin\Release\sni.dll
+D:\Programs\C#\HomeAccounting\bin\Release\SQLite.Interop.dll
