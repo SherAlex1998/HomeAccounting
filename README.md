@@ -1,5 +1,6 @@
 # HomeAccounting
 Home Accounting Management\Управление домашней бухгалтерией
+
 Используемые технологии:
 * SQLite
 * .NET Fraimwork 5.0
