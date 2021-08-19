@@ -3,7 +3,7 @@ Home Accounting Management\Управление домашней бухгалт�
 
 Используемые технологии:
 * SQLite
-* .NET Fraimwork 5.0
+* .NET Framework 5.0
 * C#
 * Visual Studio Windows Forms
 
@@ -19,7 +19,7 @@ Home Accounting Management\Управление домашней бухгалт�
 
 Technologies used:
 * SQLite
-* .NET Fraimwork 5.0
+* .NET Framework 5.0
 * C#
 * Visual Studio Windows Forms
 
